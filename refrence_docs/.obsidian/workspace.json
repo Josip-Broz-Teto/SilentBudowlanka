@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "a627e335da3869df",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8c3760c51e7cb2",
+        "type": "tabs",
+        "dimension": 58.94670050761421,
+        "children": [
+          {
+            "id": "b3b47aa08a567fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Endless workshops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endless workshops"
+            }
+          },
+          {
+            "id": "80218c3e75674b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Gameplay list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gameplay list"
+            }
+          },
+          {
+            "id": "7b648ae8323f8e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player controls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player controls"
+            }
+          },
+          {
+            "id": "7bbf0bb91473ac1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/UI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI"
+            }
+          },
+          {
+            "id": "ee25c84ad9f77013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Endless workshops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endless workshops"
+            }
+          },
+          {
+            "id": "b0df056e71c895d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main gameplay loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main gameplay loop"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a8758213d1162705",
+        "type": "tabs",
+        "dimension": 41.05329949238579,
+        "children": [
+          {
+            "id": "3d66cc8edd689993",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b60700893c1d7e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8369f10eecce0f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184f0f36b3a7828f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "06c09a6916fe840b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ce3fe423d2d55e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad40272a4a3f1768",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4334d1262b69b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557e60120d3ed3e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main gameplay loop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main gameplay loop"
+            }
+          },
+          {
+            "id": "434d35bf47fdd36d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main gameplay loop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main gameplay loop"
+            }
+          },
+          {
+            "id": "9044ffd2662c8378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f938ced8e82cfbf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5021f1c7aa062ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main gameplay loop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main gameplay loop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "184f0f36b3a7828f",
+  "lastOpenFiles": [
+    "Gameplay/Player controls.md",
+    "Gameplay/UI.md",
+    "Gameplay/Gameplay list.md",
+    "Locations/Endless workshops.md",
+    "Gameplay",
+    "Locations/Locations List.md",
+    "Locations/Main building.md",
+    "Main gameplay loop.md",
+    "Characters/Characters list.md",
+    "Story",
+    "Characters",
+    "Overview.md",
+    "Locations/Locations.base",
+    "Untitled.base",
+    "Locations",
+    "Story",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

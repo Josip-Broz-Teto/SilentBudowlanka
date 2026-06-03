@@ -1,0 +1,1 @@
+more diegetic ui rather than text on a screen for example hp being shown as
